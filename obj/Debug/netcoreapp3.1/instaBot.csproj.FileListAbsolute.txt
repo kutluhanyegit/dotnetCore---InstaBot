@@ -1,0 +1,16 @@
+/Users/kutluhanyegit/Desktop/instaBot/bin/Debug/netcoreapp3.1/instaBot.deps.json
+/Users/kutluhanyegit/Desktop/instaBot/bin/Debug/netcoreapp3.1/instaBot.runtimeconfig.json
+/Users/kutluhanyegit/Desktop/instaBot/bin/Debug/netcoreapp3.1/instaBot.runtimeconfig.dev.json
+/Users/kutluhanyegit/Desktop/instaBot/bin/Debug/netcoreapp3.1/instaBot.dll
+/Users/kutluhanyegit/Desktop/instaBot/bin/Debug/netcoreapp3.1/instaBot.pdb
+/Users/kutluhanyegit/Desktop/instaBot/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/kutluhanyegit/Desktop/instaBot/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/kutluhanyegit/Desktop/instaBot/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/kutluhanyegit/Desktop/instaBot/obj/Debug/netcoreapp3.1/instaBot.csprojAssemblyReference.cache
+/Users/kutluhanyegit/Desktop/instaBot/obj/Debug/netcoreapp3.1/instaBot.AssemblyInfoInputs.cache
+/Users/kutluhanyegit/Desktop/instaBot/obj/Debug/netcoreapp3.1/instaBot.AssemblyInfo.cs
+/Users/kutluhanyegit/Desktop/instaBot/obj/Debug/netcoreapp3.1/instaBot.csproj.CoreCompileInputs.cache
+/Users/kutluhanyegit/Desktop/instaBot/obj/Debug/netcoreapp3.1/instaBot.csproj.CopyComplete
+/Users/kutluhanyegit/Desktop/instaBot/obj/Debug/netcoreapp3.1/instaBot.dll
+/Users/kutluhanyegit/Desktop/instaBot/obj/Debug/netcoreapp3.1/instaBot.pdb
+/Users/kutluhanyegit/Desktop/instaBot/obj/Debug/netcoreapp3.1/instaBot.genruntimeconfig.cache

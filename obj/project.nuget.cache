@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFt88vzLx+3HjRbHjowUM1UFLGfexVrZKS+68q4W8EK7VpI1QLG5WyadEVzbekzaafkJVDZaKLPdIfn1DV0jYA==",
+  "success": true,
+  "projectFilePath": "/Users/kutluhanyegit/Desktop/instaBot/instaBot.csproj",
+  "expectedPackageFiles": [
+    "/Users/kutluhanyegit/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/selenium.support/4.0.0-alpha07/selenium.support.4.0.0-alpha07.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/selenium.webdriver/4.0.0-alpha07/selenium.webdriver.4.0.0-alpha07.nupkg.sha512",
+    "/Users/kutluhanyegit/.nuget/packages/selenium.webdriver.chromedriver/86.0.4240.2200/selenium.webdriver.chromedriver.86.0.4240.2200.nupkg.sha512"
+  ],
+  "logs": []
+}

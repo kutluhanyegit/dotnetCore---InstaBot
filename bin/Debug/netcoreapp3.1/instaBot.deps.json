@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "instaBot/1.0.0": {
+        "dependencies": {
+          "Selenium.Support": "4.0.0-alpha07",
+          "Selenium.WebDriver": "4.0.0-alpha07",
+          "Selenium.WebDriver.ChromeDriver": "86.0.4240.2200"
+        },
+        "runtime": {
+          "instaBot.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "Selenium.Support/4.0.0-alpha07": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.0.0-alpha07"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebDriver.Support.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.0.0-alpha07": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/86.0.4240.2200": {}
+    }
+  },
+  "libraries": {
+    "instaBot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "Selenium.Support/4.0.0-alpha07": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-at4e7guNjfbFGqwGDGFpeTpUMDCYDZWEWGSxlc/9ZqMBVxdzfN0UshT7lf8XrjZOOyASwOiz4mM9HuDVTv0yNA==",
+      "path": "selenium.support/4.0.0-alpha07",
+      "hashPath": "selenium.support.4.0.0-alpha07.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.0.0-alpha07": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vEfFli2J+Tq4pXHzuy0eV1mlit3BcqVGcpbJd9sPliCSnTWwujfVIzTVpKdDeJqeRnWjAnR3hLjYLhfT5K28pg==",
+      "path": "selenium.webdriver/4.0.0-alpha07",
+      "hashPath": "selenium.webdriver.4.0.0-alpha07.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/86.0.4240.2200": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OBsGSOQtxwycxlH2PC/OjJf+9FS+XMaGDDuLVzUVx1dDYnXSh5HY8C4iZSTPjDemsLtB3ggJvCsWf7k2wD1+Jg==",
+      "path": "selenium.webdriver.chromedriver/86.0.4240.2200",
+      "hashPath": "selenium.webdriver.chromedriver.86.0.4240.2200.nupkg.sha512"
+    }
+  }
+}
